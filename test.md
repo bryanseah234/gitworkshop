@@ -1,7 +1,4 @@
 hello world
 
-<<<<<<< Updated upstream
 ### TEST 1 BRANCH EDITS
-=======
 ### TEST 2 BRANCH EDITS
->>>>>>> Stashed changes

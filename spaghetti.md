@@ -16,8 +16,5 @@
 2. Add the cooked spaghetti to the skillet along with the reserved pasta cooking water. Toss to combine and coat the spaghetti with the garlic oil. Season with salt and black pepper to taste.
 3. Remove from heat and serve immediately, garnished with chopped parsley and grated Parmesan cheese, if desired.
 
-<<<<<<< Updated upstream
 ### TEST 1 BRANCH EDITS
-=======
 ### TEST 2 BRANCH EDITS
->>>>>>> Stashed changes
