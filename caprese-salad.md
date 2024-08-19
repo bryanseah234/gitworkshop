@@ -15,3 +15,9 @@
 3. Drizzle with extra-virgin olive oil and balsamic vinegar, if using.
 4. Season with salt and freshly ground black pepper to taste.
 5. Serve immediately as a refreshing appetizer or side dish.
+
+<<<<<<< Updated upstream
+### TEST 1 BRANCH EDITS
+=======
+### TEST 2 BRANCH EDITS
+>>>>>>> Stashed changes
